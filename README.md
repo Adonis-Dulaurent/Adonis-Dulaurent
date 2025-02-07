@@ -6,7 +6,6 @@
 
 ## :wave: About Me
 👩‍🎓 Hey! I'm **Adonis**, a 26 year old.
-:octocat: I love learning new Tech Stuffs 💖 :octocat:!
 
 🥳 I'm learning Python and Web dev. You can find me on LeetCode.
 
