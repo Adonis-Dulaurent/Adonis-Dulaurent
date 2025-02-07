@@ -6,7 +6,7 @@
 <h3 align="center">I can do magic 🪄 with Animations</h3>
 
 ## :wave: About Me
-👩‍🎓 Hey! I'm **Adonis**, a 26 year old.
+👩‍🎓 Hey! I'm **Adonis**, a 26 year old, student at Ecole nationale des chartes.
 
 🥳 I'm learning Python and Web dev. You can find me on LeetCode.
 
