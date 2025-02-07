@@ -28,10 +28,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-96385f?style=flat&logo=markdown)
   ![latex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-  - 🔧 **_Environment_**&nbsp;
-    ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-    ![NeoVim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-    ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- 🔧 **_Environment_**&nbsp;
+   ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+   ![NeoVim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
+   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
   
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/73431135/168357327-e67d68a1-cb2d-4d1a-ae67-9d40792925ce.gif" /></a>
