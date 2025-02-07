@@ -1,16 +1,39 @@
-- 👋 Hi, I’m @Adonis-Dulaurent
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+# Hey! I'm Adonis Dulaurent
+</div>
 
-<!---
-Adonis-Dulaurent/Adonis-Dulaurent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">I can do magic 🪄 with Animations</h3>
 
+## :wave: About Me
+👩‍🎓 Hey! I'm **Adonis**, a 26 year old.
+:octocat: I love learning new Tech Stuffs 💖 :octocat:!
+
+🥳 I'm learning Python and Web dev. You can find me on LeetCode.
+
+🦆  _Fun fact:_  I have a egyptologist background.
+
+✍🏻 I promise I'll always try to document what I learn and deploy it.
+
+
+## 🛠 Tech Stack
+- 💻 **_Languages:_**
+  ![Python](https://img.shields.io/badge/-Python-fc00fc?style=flat&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-f4fc00?style=flat&logo=javascript&logoColor=black)
+- 🌐 **_Web Technologies:_**
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ **_Tools:_**
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-96385f?style=flat&logo=markdown)
+  ![latex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+  - 🔧 **_Environment_**&nbsp;
+    ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+    ![NeoVim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
+    ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+  
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/73431135/168357327-e67d68a1-cb2d-4d1a-ae67-9d40792925ce.gif" /></a>
 
 <p align="center"> <strong><em><sub align="center"> Watch my contribution graph get eaten by the snake 🐍 </sub></strong></em> </p>
