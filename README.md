@@ -34,7 +34,8 @@
    ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 📈 GitHub Stats
-<p align="center">![Adonis-Dulaurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adonis-Dulaurent&show_icons=true&theme=radical)</p>
+
+![Adonis-Dulaurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adonis-Dulaurent&show_icons=true&theme=radical)
   
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/73431135/168357327-e67d68a1-cb2d-4d1a-ae67-9d40792925ce.gif" /></a>
 
