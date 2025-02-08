@@ -33,6 +33,9 @@
    ![NeoVim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
    ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+## 📈 GitHub Stats
+
+![Adonis-Dulaurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adonis-Dulaurent&show_icons=true&theme=radical
   
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/73431135/168357327-e67d68a1-cb2d-4d1a-ae67-9d40792925ce.gif" /></a>
 
@@ -44,6 +47,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cosmicsarthak/cosmicsarthak/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cosmicsarthak/cosmicsarthak/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 <br />
 <br />
