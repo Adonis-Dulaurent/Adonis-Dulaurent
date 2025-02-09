@@ -22,7 +22,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
-- ⛁ **_Databases_**
+- ⛁ **_Databases:_**
   ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
   
 - ⚙️ **_Tools:_**
@@ -31,7 +31,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-96385f?style=flat&logo=markdown)
   ![latex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
   
-- 🔧 **_Environment_**&nbsp;
+- 🔧 **_Environment:_**&nbsp;
    ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
    ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)
    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
