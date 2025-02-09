@@ -19,22 +19,24 @@
 - 💻 **_Languages:_**
   ![Python](https://img.shields.io/badge/-Python-fc00fc?style=flat&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-f4fc00?style=flat&logo=javascript&logoColor=black)
+  
 - 🌐 **_Web Technologies:_**
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
-- ⛁ **_Data_**
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⛁ **_Databases_**
+  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
   
 - ⚙️ **_Tools:_**
   ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-96385f?style=flat&logo=markdown)
   ![latex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+  
 - 🔧 **_Environment_**&nbsp;
-   ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-   ![NeoVim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  
+   ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
+   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
 ## 📈 GitHub Stats
 
