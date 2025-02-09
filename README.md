@@ -6,14 +6,12 @@
 <h3 align="center">I can do magic 🪄 with Animations</h3>
 
 ## :wave: About Me
+
 🧑‍💻 Hey! I'm **Adonis**, a 26 year old, student at Ecole nationale des chartes.
 
 🥳 I'm learning Python and Web dev. You can find me on LeetCode.
 
 🦆  _Fun fact:_  I have a egyptologist background.
-
-✍🏻 I promise I'll always try to document what I learn and deploy it.
-
 
 ## 🛠 Tech Stack
 - 💻 **_Languages:_**
@@ -25,7 +23,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 - ⛁ **_Databases_**
-  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
   
 - ⚙️ **_Tools:_**
   ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
@@ -34,9 +32,10 @@
   ![latex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
   
 - 🔧 **_Environment_**&nbsp;
-  
-   ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
-   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+   ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
+   ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)
+   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+   ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 
 ## 📈 GitHub Stats
 
@@ -52,7 +51,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cosmicsarthak/cosmicsarthak/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cosmicsarthak/cosmicsarthak/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 <br />
 <br />
