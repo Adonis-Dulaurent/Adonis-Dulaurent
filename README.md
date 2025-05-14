@@ -33,8 +33,8 @@
   
 - 🔧 **_Environment:_**&nbsp;
    ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
+   ![ArchLinux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
    ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)
-   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
    ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 
 ## 📈 GitHub Stats
