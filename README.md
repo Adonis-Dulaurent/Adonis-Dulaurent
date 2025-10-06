@@ -7,7 +7,7 @@
 
 ## :wave: About Me
 
-🧑‍💻 Hey! I'm **Adonis**, a 26 year old, student at Ecole nationale des chartes.
+🧑‍💻 Hey! I'm **Adonis**, a 26 year old.
 
 🥳 I'm learning Python and Web dev. You can find me on LeetCode.
 
