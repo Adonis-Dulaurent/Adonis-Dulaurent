@@ -9,21 +9,26 @@
 
 🧑‍💻 Hey! I'm **Adonis**, a 26 year old.
 
-🥳 I'm learning Python and Web dev. You can find me on LeetCode.
+🥳 I'm learning Python. You can find me on LeetCode.
 
 🦆  _Fun fact:_  I have a egyptologist background.
 
 ## 🛠 Tech Stack
 - 💻 **_Languages:_**
   ![Python](https://img.shields.io/badge/-Python-fc00fc?style=flat&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-f4fc00?style=flat&logo=javascript&logoColor=black)
-  
+  ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)]
+
 - 🌐 **_Web Technologies:_**
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 - ⛁ **_Databases:_**
   ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+
+- **_Data science:_**
+  [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+  [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+  [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
   
 - ⚙️ **_Tools:_**
   ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
