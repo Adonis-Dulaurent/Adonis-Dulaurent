@@ -16,7 +16,7 @@
 ## 🛠 Tech Stack
 - 💻 **_Languages:_**
   ![Python](https://img.shields.io/badge/-Python-fc00fc?style=flat&logo=python&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
 - 🌐 **_Web Technologies:_**
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
