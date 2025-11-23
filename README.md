@@ -9,7 +9,7 @@
 
 🧑‍💻 Hey! I'm **Adonis**, a 26 year old.
 
-🥳 I'm learning Python. You can find me on LeetCode.
+🥳 I'm learning Python (NLP and Data). You can find me on LeetCode.
 
 🦆  _Fun fact:_  I have a egyptologist background.
 
