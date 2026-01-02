@@ -7,7 +7,7 @@
 
 ## :wave: About Me
 
-🧑‍💻 Hey! I'm **Adonis**, a 26 year old.
+🧑‍💻 Hey! I'm **Adonis**, a 27 year old.
 
 🥳 I'm learning Python (NLP and Data). You can find me on LeetCode.
 
