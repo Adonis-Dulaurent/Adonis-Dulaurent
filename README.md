@@ -44,7 +44,7 @@
 
 ## 📈 GitHub Stats
 
-![Adonis-Dulaurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adonis-Dulaurent&show_icons=true&theme=radical)
+![Adonis-Dulaurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adonis_Dulaurent&show_icons=true&theme=radical)
   
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/73431135/168357327-e67d68a1-cb2d-4d1a-ae67-9d40792925ce.gif" /></a>
 
